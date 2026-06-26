@@ -8,3 +8,4 @@ persist.vendor.camera.privapp.list=com.android.camera,org.lineageos.aperture
 ro.miui.notch=1
 ro.miui.ui.version.name=V816
 ro.miui.ui.version.code=816
+ro.product.camera.livephoto.support=3
